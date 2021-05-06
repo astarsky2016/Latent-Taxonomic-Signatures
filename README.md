@@ -1,4 +1,4 @@
-# Latent-Semantic-Signatures
+# Latent-Taxonomic-Signatures
 Matrix outlook on the Tree of Life
 To systematically explore hypothesis of species evolution through cohesive mode of molecular drive we constructed over 50,000 species models based on Latent Semantic Analysis. We substituted sequence alignment with natural language processing and distributional semantics in order to test for existence of cohesive information between sequences that cannot be aligned, but share taxonomy as common denominator. 
 
