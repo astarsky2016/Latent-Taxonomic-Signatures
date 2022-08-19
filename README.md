@@ -5,7 +5,7 @@ The python code herein consists of various scripts used to process species prote
 
 If there are some issues with code execution, please contact me by sending me an email on astar@pbf.hr with the title "LTS code issue" and state the script you have trouble excecuting. All the scripts are meant to be executed within the same directory.
 
-The programs herein were executed on an x86_64 Ubuntu Linux server machine, kernel release 5.4.0-110-generic with 256GB of RAM and 32 real CPUs, model Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz with ample storage.
+The programs herein were executed on an x86_64 Debian based Linux Ubuntu 18.04.5 LTS server with 2 Intel Xeon E5-2650 2.00GHz CPUs, 8 cores per socket and 2 Threads per core and 256 GB RAM, kernel release 5.4.0-110-generic with ample storage.
 
 Scripts having a "_jupyter" suffix were utilized for generation of Figures, based on the output of the previously described scripts. For this purpose, Jupyter notebook version 5.0.0 was also installed on the same server machine and started in the same directory all script output has been generated. Gensim 
 v. 4.0.1, Matplotlib v. 3.4.1 (0.1.2 -inline), Scipy v. 1.6.3, Numpy v. 1.20.2 and Scikit-learn v. 0.24.2 are some of the libraries this code is heavily dependant upon.
